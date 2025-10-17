@@ -1,0 +1,10 @@
+# Thunderstore CLI build output
+build/
+
+# local testing files
+src/manifest.json
+src/LICENSE
+src/icon.png
+src/mm_v2_manifest.json
+src/README.md
+src/CHANGELOG.md
